@@ -11,8 +11,8 @@ var keystone = require('keystone');
 
 keystone.init({
 
-	'name': 'KeystoneJS',
-	'brand': 'KeystoneJS',
+	'name': 'Xenbotics.com',
+	'brand': 'Xenbotics.com',
 
 	'less': 'public',
 	
